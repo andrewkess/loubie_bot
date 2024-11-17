@@ -8,9 +8,9 @@
 
 ## **Key Features**
 
-- 🎙️ **Voice Cloning**: Precisely replicates Christian Louboutin's distinct voice using advanced AI-driven voice synthesis.
+- 🎙️ **Voice Cloning**: Replicates Christian Louboutin's distinct voice using advanced AI-driven voice synthesis.
 - 🧠 **Large Language Model (LLM)**: Fine-tuned on curated datasets to reflect Louboutin’s insights, brand history, and personal philosophy.
-- 🌐 **Multilingual Support**: Seamlessly converses in **English**, **French**, and **Chinese** to reach a global audience.
+- 🌐 **Multilingual Support**: Possibility to converses in **English**, **French**, and **Chinese** to reach a global audience.
 - 🔍 **Retrieval-Augmented Generation (RAG)**: Ensures accurate, context-aware answers by integrating real-time retrieval from relevant knowledge sources.
 - 💬 **Personalized Conversations**: Engages users with fluid, respectful dialogue while steering clear of sensitive or inappropriate topics.
 
