@@ -1,7 +1,3 @@
-# loubie_bot
-Interactive Loubie conversational chatbot. Designed with the personality, design aesthetic, brand history, business objectives and voice of Christian Louboutin.
-
-
 # Loubie Bot: An AI Conversation with Christian Louboutin
 
 ## Overview
@@ -41,27 +37,6 @@ You can experience Loubie in action through the following methods:
 2. **Phone Calls**:
    - English: [(+1) 336-536-6989](tel:+13365366989)
    - French: [(+1) 336-396-8449](tel:+13363968449)
-
-## Technical Stack
-
-- **Frontend**: Built with React for a responsive user interface.
-- **Backend**: Node.js and Express to handle API requests and manage voice interactions.
-- **LLM Integration**: Utilizes OpenAI's GPT models for conversational capabilities.
-- **Voice Cloning**: Employed Amazon Polly or similar services for realistic voice synthesis.
-
-## Getting Involved
-
-If you’re interested in contributing to the project, improving Loubie’s features, or exploring new applications of AI in fashion, feel free to fork this repository and submit pull requests. We welcome your ideas and contributions!
-
-### Contributing Guidelines
-
-1. **Fork the Repository**: Clone a copy of the repository to your local machine.
-2. **Create a Branch**: Develop your feature on a separate branch.
-3. **Submit a Pull Request**: Provide a detailed description of your changes for review.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
