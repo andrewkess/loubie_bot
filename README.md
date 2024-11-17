@@ -34,7 +34,7 @@ You can experience Loubie in action through the following methods:
 1. **Online Demo**:
    - [Loubie Bot Live Demo](https://andrewkessinger.vercel.app/projects/loubie-bot)
 
-2. **Phone Calls**:
+2. **Phone Call**:
    - English: [(+1) 336-536-6989](tel:+13365366989)
    - French: [(+1) 336-396-8449](tel:+13363968449)
 
